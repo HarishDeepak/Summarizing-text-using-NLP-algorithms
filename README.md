@@ -2,10 +2,6 @@
 
 Implementation of a sequence-to-sequence LSTM architecture for abstractive text summarisation on the BBC News dataset. The model learns to generate short, human-readable summaries from long news articles using an encoder-decoder design with teacher forcing.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishdeepak/)
-
 ---
 
 ## Problem
